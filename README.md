@@ -1,0 +1,2 @@
+# MyBB
+https://mybb.com/
